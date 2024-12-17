@@ -1,0 +1,1 @@
+helm install kubewall oci://ghcr.io/kubewall/charts/kubewall -n kubewall-system --create-namespace

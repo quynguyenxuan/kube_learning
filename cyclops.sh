@@ -1,0 +1,2 @@
+# https://github.com/cyclops-ui/cyclops?tab=readme-ov-file
+kubectl apply -f https://raw.githubusercontent.com/cyclops-ui/cyclops/v0.15.4/install/cyclops-install.yaml && kubectl apply -f https://raw.githubusercontent.com/cyclops-ui/cyclops/v0.15.4/install/demo-templates.yaml
